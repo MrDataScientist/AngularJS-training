@@ -14,12 +14,12 @@ Filters in AngularJS
     
 ## Course II
 
-Section: 1 
-AngularJS - How to make your browsers Smarter
-Section: 2 
-Understanding AngularJS
-Section: 3 
-Practical AngularJS - Making of BooKart
+###Section: 1 
+-AngularJS - How to make your browsers Smarter
+###Section: 2 
+-Understanding AngularJS
+###Section: 3 
+-Practical AngularJS - Making of BooKart
 
     6. What's MVC?
     7. BooKart - Views, Models & Controllers
