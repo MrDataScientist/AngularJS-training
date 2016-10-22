@@ -33,3 +33,9 @@ Filters in AngularJS
     14. Filters for formatting & Animations for WOW!
     15. Finishing touches 
     16. Resume
+
+
+## don't forget
+http://blog.ircmaxell.com/2014/11/alternatives-to-mvc.html
+https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93presenter
+http://www.orbifold.net/default/portfolio/1001-graphs/1001-ways/
