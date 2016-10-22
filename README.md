@@ -1,3 +1,4 @@
+AngularJS 1 and 2
 # AngularJS-training
 ## Course I
 
